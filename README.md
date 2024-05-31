@@ -1,1 +1,1 @@
-# studentdropout
+# Student Dropout Project
